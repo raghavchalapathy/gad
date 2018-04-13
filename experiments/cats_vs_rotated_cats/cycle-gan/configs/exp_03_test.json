@@ -1,7 +1,0 @@
-{
-  "description": "Testing with trained model.",
-  "network_version": "pytorch",
-  "dataset_name": "cats_n_dogs",
-  "do_flipping": 0,
-   "pool_size": 10
-}
